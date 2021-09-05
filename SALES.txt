@@ -1,0 +1,4 @@
+ID: 1,  Name:  Snikers,  Type:  Munchy,  Price: 40,  Quantity: 2,  Expiry date:  10/12/21
+2021-09-05 17:35:55.151229
+ID: 2,  Name:  Perk,  Type:  Crunchy,  Price: 80,  Quantity: 4,  Expiry date:  12/10/21
+2021-09-05 17:36:01.756233
